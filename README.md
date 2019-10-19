@@ -20,17 +20,17 @@
 
 
 ### 体验地址
-![gh_b9a0f713cbea_344](C:\Users\Mr Li\Downloads\gh_b9a0f713cbea_344.jpg)
+![gh_b9a0f713cbea_344](/gh_b9a0f713cbea_344.jpg)
 
 ### 效果图如下
-![1571477809998](C:\Users\Mr Li\AppData\Roaming\Typora\typora-user-images\1571477809998.png)
+![1571477809998](/1571477809998.png)
 
-![1571477910745](C:\Users\Mr Li\AppData\Roaming\Typora\typora-user-images\1571477910745.png)
+![1571477910745](/1571477910745.png)
 
 
 
-![1571477927993](C:\Users\Mr Li\AppData\Roaming\Typora\typora-user-images\1571477927993.png)
+![1571477927993](/1571477927993.png)
 
-![1571477954585](C:\Users\Mr Li\AppData\Roaming\Typora\typora-user-images\1571477954585.png)
+![1571477954585](/1571477954585.png)
 
 后端为tp框架搭建的文章管理系统。
